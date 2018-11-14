@@ -1,8 +1,12 @@
 # github 命令简介
+
 - git init 创建，初始化仓库
 - git status 状态查询
--
 
+更新/上传文件到github
+- git add 'filename'
+- git commit "标记"
+- git push origin master(分支brunch名)
 
 
 ---
